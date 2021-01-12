@@ -1,1 +1,7 @@
-# advanced-graph-analytics
+# Graph Analytics 
+
+
+## Lecture 1  
+
+
+## Lecture 2 
