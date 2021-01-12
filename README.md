@@ -1,4 +1,4 @@
-# Graph Analytics 
+# Advanced Graph Analytics 
 
 
 ## Lecture 1  
